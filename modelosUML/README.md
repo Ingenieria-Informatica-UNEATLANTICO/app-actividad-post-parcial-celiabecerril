@@ -7,7 +7,7 @@
 #### Diagrama de Clases
 | Diagrama | Código Fuente |
 |----------|---------------|
-| ![Diagrama de Clases](https://raw.githubusercontent.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/2d88ddadcd83cd53773a098fb26c2f409fb82e4e/images/DiagramaClases.svg) | [Ver código](modelosUML/MdD1-Ddc.puml) |
+| ![Diagrama de Clases](https://raw.githubusercontent.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/2d88ddadcd83cd53773a098fb26c2f409fb82e4e/images/DiagramaClases.svg) | [Ver código](https://github.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/blob/main/modelosUML/MdD1-Ddc.puml) |
 
 #### Diagrama de Objetos
 | Diagrama | Código Fuente |
