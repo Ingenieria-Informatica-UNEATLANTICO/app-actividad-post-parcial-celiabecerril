@@ -1,0 +1,60 @@
+@startuml
+hide circle
+hide empty members
+
+class Usuario {
+   
+}
+
+class Condiciones {
+   
+}
+
+class Dispositivo {
+   
+}
+
+class CreadorDeContenido {
+   
+}
+
+class Viewer {
+  
+}
+
+class Subscripcion {
+   
+}
+
+class Categoria {
+   
+}
+
+class Recomendacion {
+   
+}
+
+class Contenido {
+   
+}
+
+class Perfil {
+    
+}
+
+Usuario "1" --> "1..*" Dispositivo : usa
+Usuario "1" --> "1" Condiciones : acepta
+Usuario "1" --> "1" Perfil : tiene
+Usuario "1" --|> "0..1" CreadorDeContenido : puede ser
+Usuario "1" --|> "1" Viewer : es
+CreadorDeContenido "1" --> "1" Viewer : es
+CreadorDeContenido "1" --> "1..*" Categoria: hace
+Viewer "1" --> "0..*" Subscripcion: tiene
+Categoria "1" <-- "0..*" Contenido: pertenece
+Subscripcion "1" --> "1..*" Recomendacion: establece
+Recomendacion "1" --> "0..*" Categoria: sobre
+Contenido "1" --> "1" CreadorDeContenido : creado por
+Viewer "1" --> "0..*" Contenido : visualiza
+Perfil "1" --> "1" Usuario : pertenece a
+
+@enduml
