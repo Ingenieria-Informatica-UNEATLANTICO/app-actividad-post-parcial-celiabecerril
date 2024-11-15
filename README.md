@@ -12,7 +12,7 @@ Este repositorio contiene:
 
 Puedes visualizar los diagramas directamente a través de los siguientes enlaces:
 # **Modelos UML**
-- [Modelos UML](https://github.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/tree/main/modelosUML)
+- [Modelos UML](https://github.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/blob/main/modelosUML/README.md)
     ### **Solucion Examen Parcial**
 - [Diagrama de Clases](modelosUML/MdD1-Ddc.puml)
 - [Diagrama de Objetos](modelosUML/MdD1-DdO.puml)
@@ -25,7 +25,7 @@ Puedes visualizar los diagramas directamente a través de los siguientes enlaces
 - [Diagrama de Estados Recomendación](modelosUML/MdD2-DdE-Recomendacion.puml)
 
 # **Imagenes de diagramas**
-- [Imagenes de diagramas](https://github.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/tree/main/images)
+- [Imagenes de diagramas](https://github.com/Ingenieria-Informatica-UNEATLANTICO/app-actividad-post-parcial-celiabecerril/blob/main/modelosUML/README.md)
     ### **Solucion Examen Parcial**
 - [Diagrama de Clases](images/DiagramaClases.svg)
 - [Diagrama de Objetos](images/DiagramaObjetos.svg)
