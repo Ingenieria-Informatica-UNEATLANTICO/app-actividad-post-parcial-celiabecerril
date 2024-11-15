@@ -1,13 +1,5 @@
 # Examen Parcial - Modelos UML y Diagramas
 
-
-## Contenido del Repositorio
-
-Este repositorio contiene:
-
-- **Diagramas UML**: Modelo del dominio (Diagrama de clases, diagrama de objtos y diagrama de estados)
-- **Imagenes**: Imagenes en .svg de los diagramas realizados
-
 ## Enlaces a Imágenes y Modelos UML
 
 Puedes visualizar los diagramas directamente a través de los siguientes enlaces:
